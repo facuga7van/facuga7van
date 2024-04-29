@@ -8,6 +8,11 @@
 
 ![Sin título-1](https://github.com/facuga7van/facuga7van/assets/70443572/12868118-6683-4564-86df-6be873c52500)
 
+## About me
+
+- 🖥️ Web Developer
+- 🎮 Gamer
+- 📙 Currently working on ![Questify](https://github.com/facuga7van/Questify/releases/latest)
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
